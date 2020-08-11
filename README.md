@@ -3,6 +3,8 @@ The purpose of this exercise is to familiar with using C# and Algorithm Design.
 
 I used the following algorithm to design this simple program:
 
+Goal: Write a program in C# that prints the 'Hello' and your name.
+
 Start
 1) Set the value of "message" to the string "Hello". //process
 2) Get a value for "myName". // input
